@@ -55,11 +55,48 @@
 <img src="https://skillicons.dev/icons?i=python" height="105"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="105"/>
 
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=helm" height="105"/>
+<img src="https://skillicons.dev/icons?i=argocd" height="105"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MetalLB-LoadBalancer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ingress--NGINX-Ingress-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cilium-CNI-darkblue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Calico-CNI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Istio-ServiceMesh-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linkerd-ServiceMesh-lightblue?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/KEDA-Autoscaling-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Velero-Backup-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Harbor-Registry-blue?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Loki-Logging-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jaeger-Tracing-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-Observability-green?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Trivy-Scanner-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gitleaks-Secrets-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Falco-RuntimeSecurity-purple?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OpenStack-PrivateCloud-red?style=for-the-badge&logo=openstack"/>
+<img src="https://img.shields.io/badge/Proxmox-Virtualization-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPS-Hosting-blue?style=for-the-badge"/>
+
 </p>
 
 ---
 
-<!-- Motion feel below stack -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2200&color=00E5FF&center=true&vCenter=true&width=800&lines=Cloud+Automation+•+Containers+•+Kubernetes+•+DevOps+Engineering" />
 </p>
