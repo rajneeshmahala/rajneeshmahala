@@ -1,90 +1,95 @@
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00c6ff&height=220&section=header&text=Rajneesh%20Mahala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Platform%20Builder%20|%20Cloud%20Architect&descAlignY=55&descAlign=50"/>
+</p>
 
-<h1 align="center">Hi 👋, I'm Rajneesh Mahala</h1>
-<h3 align="center">🚀 DevOps Engineer | Platform Builder | Cloud & Automation Enthusiast</h3>
+<!-- ===================== TYPING INTRO ===================== -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Cloud+%7C+Kubernetes+Specialist;Building+Automation+Platforms+%26+Cloud+Solutions;AI+Assisted+DevOps+Environments;Platform+Engineering+%7C+IaC+%7C+Cloud+Native;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Working on **Cloud, DevOps & Platform Engineering solutions**
-- 🧠 Exploring **AI-assisted development & automation**
-- ☁️ Building scalable infrastructure on **Kubernetes & Cloud**
-- 🐳 Passionate about containers, automation, and platform design
-- 🚀 Focused on building production-ready DevOps solutions
+
+- 🔭 Building Cloud & DevOps platforms
+- 🧠 Exploring AI-assisted DevOps automation
+- ☁️ Kubernetes & Cloud infrastructure builder
+- 🐳 Container & platform engineering enthusiast
+- 🚀 Focused on scalable production solutions
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 🏅 Certifications
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-EF2D5E?style=for-the-badge&logo=openstack&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure%20Administrator%20AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps%20Engineer%20AZ--400-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Fundamentals%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Solutions%20Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RedHat%20Certified%20Engineer-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</p>
 
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+---
 
-### ⚙️ DevOps & CI/CD
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+## ⚡ Tech Stack
 
-### 🏗 Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 📊 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,helm,terraform,ansible,jenkins,githubactions,prometheus,grafana,python,nodejs&perline=7" height="65"/>
+</p>
 
 ---
 
 ## 🚀 Current Focus
+
 - Kubernetes platform engineering
-- AI-assisted DevOps automation
 - Infrastructure automation
-- Secure platform design
-- Self-hosted cloud platforms
+- AI-powered DevOps workflows
+- Secure cloud platforms
+- Multi-cloud automation
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajneeshmahala&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajneeshmahala&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajneeshmahala&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 Activity & Badges
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajneeshmahala&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/rajneeshmahala?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/rajneeshmahala?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
+
 - 💼 LinkedIn: https://linkedin.com/in/rajneeshmahala
 - 🧑‍💻 GitHub: https://github.com/rajneeshmahala
 
 ---
 
-## ⚡ Fun DevOps Quote
-> "Automate everything, monitor continuously, and keep learning."
+## ⚡ DevOps Quote
+
+> Automate everything, monitor continuously, and keep learning.
 
 ---
 
-⭐️ From Rajneesh Mahala (https://github.com/rajneeshmahala)
-<!--
-**rajneeshmahala/rajneeshmahala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+⭐️ From <a href="https://github.com/rajneeshmahala">Rajneesh Mahala</a>
+</p>
