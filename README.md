@@ -66,15 +66,23 @@
 <td align="center"><img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="70"/><br>ArgoCD</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="70"/><br>OpenStack</td>
 <td align="center"><img src="https://img.shields.io/badge/MetalLB-blue?style=flat-square" height="28"/><br>MetalLB</td>
-<td align="center"><img src="https://img.shields.io/badge/Istio-blue?style=flat-square" height="28"/><br>Istio</td>
+<td align="center"><img src="https://img.shields.io/badge/IngressNGINX-green?style=flat-square" height="28"/><br>Ingress</td>
 </tr>
 
 <tr>
+<td align="center"><img src="https://img.shields.io/badge/Istio-blue?style=flat-square" height="28"/><br>Istio</td>
+<td align="center"><img src="https://img.shields.io/badge/Linkerd-lightblue?style=flat-square" height="28"/><br>Linkerd</td>
 <td align="center"><img src="https://img.shields.io/badge/Cilium-darkblue?style=flat-square" height="28"/><br>Cilium</td>
 <td align="center"><img src="https://img.shields.io/badge/Calico-blue?style=flat-square" height="28"/><br>Calico</td>
+<td align="center"><img src="https://img.shields.io/badge/Harbor-blue?style=flat-square" height="28"/><br>Harbor</td>
+</tr>
+
+<tr>
 <td align="center"><img src="https://img.shields.io/badge/Trivy-blue?style=flat-square" height="28"/><br>Trivy</td>
 <td align="center"><img src="https://img.shields.io/badge/Gitleaks-red?style=flat-square" height="28"/><br>Gitleaks</td>
 <td align="center"><img src="https://img.shields.io/badge/Falco-purple?style=flat-square" height="28"/><br>Falco</td>
+<td align="center"><img src="https://img.shields.io/badge/KEDA-purple?style=flat-square" height="28"/><br>KEDA</td>
+<td align="center"><img src="https://img.shields.io/badge/Velero-yellow?style=flat-square" height="28"/><br>Velero</td>
 </tr>
 
 </table>
@@ -84,7 +92,6 @@
 ---
 
 ## 🚀 Current Focus
-
 - Kubernetes platform engineering
 - Infrastructure automation
 - AI-powered DevOps workflows
@@ -94,7 +101,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajneeshmahala&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajneeshmahala&theme=tokyonight"/>
@@ -103,7 +109,6 @@
 ---
 
 ## 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajneeshmahala&theme=tokyo-night"/>
 </p>
@@ -111,7 +116,6 @@
 ---
 
 ## 🏆 Activity & Badges
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rajneeshmahala&label=Profile%20Views&color=blue&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/rajneeshmahala?style=for-the-badge"/>
@@ -121,14 +125,12 @@
 ---
 
 ## 🌐 Connect With Me
-
 - 💼 LinkedIn: https://linkedin.com/in/rajneeshmahala
 - 🧑‍💻 GitHub: https://github.com/rajneeshmahala
 
 ---
 
 ## ⚡ DevOps Quote
-
 > Automate everything, monitor continuously, and keep learning.
 
 ---
