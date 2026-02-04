@@ -36,62 +36,57 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws" height="105"/>
-<img src="https://skillicons.dev/icons?i=azure" height="105"/>
-<img src="https://skillicons.dev/icons?i=docker" height="105"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="105"/>
+<!-- Cloud -->
+<img src="https://skillicons.dev/icons?i=aws" height="120"/>
+<img src="https://skillicons.dev/icons?i=azure" height="120"/>
+<img src="https://skillicons.dev/icons?i=docker" height="120"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="120"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=terraform" height="105"/>
-<img src="https://skillicons.dev/icons?i=ansible" height="105"/>
-<img src="https://skillicons.dev/icons?i=jenkins" height="105"/>
-<img src="https://skillicons.dev/icons?i=githubactions" height="105"/>
+<!-- IaC & CI/CD -->
+<img src="https://skillicons.dev/icons?i=terraform" height="120"/>
+<img src="https://skillicons.dev/icons?i=ansible" height="120"/>
+<img src="https://skillicons.dev/icons?i=jenkins" height="120"/>
+<img src="https://skillicons.dev/icons?i=githubactions" height="120"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=prometheus" height="105"/>
-<img src="https://skillicons.dev/icons?i=grafana" height="105"/>
-<img src="https://skillicons.dev/icons?i=python" height="105"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="105"/>
+<!-- Monitoring -->
+<img src="https://skillicons.dev/icons?i=prometheus" height="120"/>
+<img src="https://skillicons.dev/icons?i=grafana" height="120"/>
+<img src="https://skillicons.dev/icons?i=python" height="120"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="120"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=helm" height="105"/>
-<img src="https://skillicons.dev/icons?i=argocd" height="105"/>
+<!-- GitOps -->
+<img src="https://skillicons.dev/icons?i=helm" height="120"/>
+<img src="https://skillicons.dev/icons?i=argocd" height="120"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MetalLB-LoadBalancer-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ingress--NGINX-Ingress-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cilium-CNI-darkblue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Calico-CNI-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Istio-ServiceMesh-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linkerd-ServiceMesh-lightblue?style=for-the-badge"/>
+<!-- Kubernetes Ecosystem -->
+<img src="https://img.shields.io/badge/MetalLB-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ingress%20NGINX-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cilium-darkblue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Calico-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Istio-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linkerd-lightblue?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/KEDA-Autoscaling-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Velero-Backup-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Harbor-Registry-blue?style=for-the-badge"/>
+<!-- Security -->
+<img src="https://img.shields.io/badge/Trivy-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gitleaks-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Falco-purple?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Loki-Logging-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jaeger-Tracing-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-Observability-green?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Trivy-Scanner-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gitleaks-Secrets-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Falco-RuntimeSecurity-purple?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/OpenStack-PrivateCloud-red?style=for-the-badge&logo=openstack"/>
-<img src="https://img.shields.io/badge/Proxmox-Virtualization-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VPS-Hosting-blue?style=for-the-badge"/>
+<!-- Platform -->
+<img src="https://img.shields.io/badge/OpenStack-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Proxmox-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPS-blue?style=for-the-badge"/>
 
 </p>
 
