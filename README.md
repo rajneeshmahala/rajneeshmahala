@@ -37,56 +37,32 @@
 <p align="center">
 
 <!-- Cloud -->
-<img src="https://skillicons.dev/icons?i=aws" height="120"/>
-<img src="https://skillicons.dev/icons?i=azure" height="120"/>
-<img src="https://skillicons.dev/icons?i=docker" height="120"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="120"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="90"/>
 
 <br><br>
 
 <!-- IaC & CI/CD -->
-<img src="https://skillicons.dev/icons?i=terraform" height="120"/>
-<img src="https://skillicons.dev/icons?i=ansible" height="120"/>
-<img src="https://skillicons.dev/icons?i=jenkins" height="120"/>
-<img src="https://skillicons.dev/icons?i=githubactions" height="120"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="90"/>
 
 <br><br>
 
 <!-- Monitoring -->
-<img src="https://skillicons.dev/icons?i=prometheus" height="120"/>
-<img src="https://skillicons.dev/icons?i=grafana" height="120"/>
-<img src="https://skillicons.dev/icons?i=python" height="120"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="120"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="90"/>
 
 <br><br>
 
 <!-- GitOps -->
-<img src="https://skillicons.dev/icons?i=helm" height="120"/>
-<img src="https://skillicons.dev/icons?i=argocd" height="120"/>
-
-<br><br>
-
-<!-- Kubernetes Ecosystem -->
-<img src="https://img.shields.io/badge/MetalLB-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ingress%20NGINX-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cilium-darkblue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Calico-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Istio-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linkerd-lightblue?style=for-the-badge"/>
-
-<br><br>
-
-<!-- Security -->
-<img src="https://img.shields.io/badge/Trivy-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gitleaks-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Falco-purple?style=for-the-badge"/>
-
-<br><br>
-
-<!-- Platform -->
-<img src="https://img.shields.io/badge/OpenStack-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proxmox-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VPS-blue?style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="90"/>
+<img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="90"/>
 
 </p>
 
