@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rajneesh Mahala</h1>
 <h3 align="center">🚀 DevOps Engineer | Platform Builder | Cloud & Automation Enthusiast</h3>
@@ -74,7 +73,7 @@
 
 ---
 
-⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/rajneeshmahala)
+⭐️ From Rajneesh Mahala (https://github.com/rajneeshmahala)
 <!--
 **rajneeshmahala/rajneeshmahala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
