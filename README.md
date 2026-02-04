@@ -36,40 +36,58 @@
 
 <p align="center">
 
-<!-- Cloud -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="90"/>
+<!-- Row 1 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80"/>
 
 <br><br>
 
-<!-- IaC & CI/CD -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="90"/>
+<!-- Row 2 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80"/>
 
 <br><br>
 
-<!-- Monitoring -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="90"/>
+<!-- Row 3 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="80"/>
 
 <br><br>
 
-<!-- GitOps -->
-<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="90"/>
-<img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="90"/>
+<!-- Row 4 -->
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="80"/>
+<img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" height="80"/>
+<img src="https://img.shields.io/badge/MetalLB-blue?style=flat-square" height="28"/>
 
-</p>
+<br><br>
 
----
+<!-- Row 5 -->
+<img src="https://img.shields.io/badge/Cilium-darkblue?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Calico-blue?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Istio-blue?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Linkerd-lightblue?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Trivy-blue?style=flat-square" height="28"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2200&color=00E5FF&center=true&vCenter=true&width=800&lines=Cloud+Automation+•+Containers+•+Kubernetes+•+DevOps+Engineering" />
+<br><br>
+
+<!-- Row 6 -->
+<img src="https://img.shields.io/badge/Gitleaks-red?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Falco-purple?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Velero-yellow?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/KEDA-purple?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Harbor-blue?style=flat-square" height="28"/>
+
 </p>
 
 ---
