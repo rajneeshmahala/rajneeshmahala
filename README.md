@@ -36,57 +36,48 @@
 
 <p align="center">
 
-<!-- Row 1 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80"/>
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="70"/><br>Azure</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="70"/><br>AWS</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70"/><br>Docker</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="70"/><br>Kubernetes</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70"/><br>Linux</td>
+</tr>
 
-<br><br>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="70"/><br>Terraform</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="70"/><br>Ansible</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="70"/><br>Jenkins</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70"/><br>GitHub</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70"/><br>Git</td>
+</tr>
 
-<!-- Row 2 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80"/>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="70"/><br>Prometheus</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="70"/><br>Grafana</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70"/><br>Python</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70"/><br>NodeJS</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="70"/><br>Nginx</td>
+</tr>
 
-<br><br>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="70"/><br>Helm</td>
+<td align="center"><img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="70"/><br>ArgoCD</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="70"/><br>OpenStack</td>
+<td align="center"><img src="https://img.shields.io/badge/MetalLB-blue?style=flat-square" height="28"/><br>MetalLB</td>
+<td align="center"><img src="https://img.shields.io/badge/Istio-blue?style=flat-square" height="28"/><br>Istio</td>
+</tr>
 
-<!-- Row 3 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="80"/>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Cilium-darkblue?style=flat-square" height="28"/><br>Cilium</td>
+<td align="center"><img src="https://img.shields.io/badge/Calico-blue?style=flat-square" height="28"/><br>Calico</td>
+<td align="center"><img src="https://img.shields.io/badge/Trivy-blue?style=flat-square" height="28"/><br>Trivy</td>
+<td align="center"><img src="https://img.shields.io/badge/Gitleaks-red?style=flat-square" height="28"/><br>Gitleaks</td>
+<td align="center"><img src="https://img.shields.io/badge/Falco-purple?style=flat-square" height="28"/><br>Falco</td>
+</tr>
 
-<br><br>
-
-<!-- Row 4 -->
-<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="80"/>
-<img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" height="80"/>
-<img src="https://img.shields.io/badge/MetalLB-blue?style=flat-square" height="28"/>
-
-<br><br>
-
-<!-- Row 5 -->
-<img src="https://img.shields.io/badge/Cilium-darkblue?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Calico-blue?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Istio-blue?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Linkerd-lightblue?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Trivy-blue?style=flat-square" height="28"/>
-
-<br><br>
-
-<!-- Row 6 -->
-<img src="https://img.shields.io/badge/Gitleaks-red?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Falco-purple?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Velero-yellow?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/KEDA-purple?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Harbor-blue?style=flat-square" height="28"/>
+</table>
 
 </p>
 
