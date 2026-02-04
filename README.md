@@ -1,11 +1,11 @@
 <!-- ===================== MODERN DEVOPS BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Rajneesh%20Mahala&fontSize=48&fontColor=00E5FF&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20•%20Cloud%20Automation%20•%20Platform%20Engineering&descSize=20&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:1f1c2c&height=260&section=header&text=Rajneesh%20Mahala&fontSize=50&fontColor=00E5FF&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20•%20Cloud%20Automation%20•%20Platform%20Engineering&descSize=20&descAlignY=60&descAlign=50"/>
 </p>
 
 <!-- ===================== ANIMATED INTRO ===================== -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Cloud+%7C+Kubernetes;Building+Automation+Platforms;Cloud+Native+%7C+IaC+%7C+Platform+Engineering;AI+Assisted+DevOps+Workflows;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Cloud+%7C+Kubernetes+%7C+DevOps+Engineer;Building+Automation+Platforms;Cloud+Native+Infrastructure;AI+Assisted+DevOps+Workflows;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -36,25 +36,32 @@
 
 <p align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=aws" height="90"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=azure" height="90"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker" height="90"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" height="90"/></a>
+<img src="https://skillicons.dev/icons?i=aws" height="105"/>
+<img src="https://skillicons.dev/icons?i=azure" height="105"/>
+<img src="https://skillicons.dev/icons?i=docker" height="105"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="105"/>
 
 <br><br>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=terraform" height="90"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=ansible" height="90"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=jenkins" height="90"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=githubactions" height="90"/></a>
+<img src="https://skillicons.dev/icons?i=terraform" height="105"/>
+<img src="https://skillicons.dev/icons?i=ansible" height="105"/>
+<img src="https://skillicons.dev/icons?i=jenkins" height="105"/>
+<img src="https://skillicons.dev/icons?i=githubactions" height="105"/>
 
 <br><br>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=prometheus" height="90"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=grafana" height="90"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=python" height="90"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" height="90"/></a>
+<img src="https://skillicons.dev/icons?i=prometheus" height="105"/>
+<img src="https://skillicons.dev/icons?i=grafana" height="105"/>
+<img src="https://skillicons.dev/icons?i=python" height="105"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="105"/>
 
+</p>
+
+---
+
+<!-- Motion feel below stack -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2200&color=00E5FF&center=true&vCenter=true&width=800&lines=Cloud+Automation+•+Containers+•+Kubernetes+•+DevOps+Engineering" />
 </p>
 
 ---
