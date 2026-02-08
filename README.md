@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:1f1c2c&height=260&section=header&text=Rajneesh%20Mahala&fontSize=50&fontColor=00E5FF&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20•%20Cloud%20Automation%20•%20Platform%20Engineering&descSize=20&descAlignY=60&descAlign=50"/>
 </p>
-
+ 
 <!-- ===================== ANIMATED INTRO ===================== -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Cloud+%7C+Kubernetes+%7C+DevOps+Engineer;Building+Automation+Platforms;Cloud+Native+Infrastructure;AI+Assisted+DevOps+Workflows;Always+Learning+New+Technologies" />
